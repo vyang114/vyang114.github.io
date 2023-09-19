@@ -1,0 +1,81 @@
+/*SIDEBAR*/
+ 
+#sidebar {
+    background: white;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    text-align: center;
+}
+ 
+#sidebar a {
+    text-decoration: none;
+}
+ 
+ 
+#sideimg {
+    text-align: center;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 14px;
+}
+
+
+#desc {
+    color: #ae4b33;
+    text-align: center;
+    font-family: trebuchet ms;
+    font-size: 10px;
+    letter-spacing: 2px;
+    line-height: 10px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    /* text-transform: uppercase; */
+}
+
+
+/*NAV in SIDEBAR*/
+
+#nav {
+    font-family: trebuchet ms;
+    font-size: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 5px;
+    }
+   
+#nav a {
+    color: black;
+    letter-spacing: 1px;
+    margin-right: 2px;
+    padding: 3px;
+    -webkit-transition: all 0.8s ease-in;
+    -moz-transition: all 0.8s ease-in;
+    -o-transition: all 0.8s ease-in;
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+}
+ 
+#nav a:hover {
+    background: white;
+    text-shadow: -3px 0px, 3px 0px;
+    color: black;
+    -webkit-transition: all 0.8s ease-in;
+    -moz-transition: all 0.8s ease-in;
+    -o-transition: all 0.8s ease-in;
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+}
+
+#fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
