@@ -28,11 +28,11 @@
     color: #ae4b33;
     text-align: center;
     font-family: trebuchet ms;
-    font-size: 15px;
+    font-size: 20px;
     letter-spacing: 2px;
     line-height: 10px;
     margin-top: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
     padding-top: 10px;
     /* text-transform: uppercase; */
 }
@@ -42,10 +42,10 @@
 
 #nav {
     font-family: trebuchet ms;
-    font-size: 15px;
+    font-size: 25px;
     text-transform: uppercase;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 20px;
     }
    
 #nav a {
@@ -111,7 +111,7 @@
 #main {
     margin: auto;
     position: relative;
-    width: 600px;
+    width: 700px;
     height: auto;
 }
  
@@ -123,7 +123,7 @@
     margin-left: -10px;
     margin-right: auto;
     height: auto;
-    width: 600px;
+    width: 700px;
 }
 
 .post {
@@ -134,7 +134,7 @@
     background: white;
     border: 1px solid;
     border-color: #e8e8e8;
-    width: 600px;
+    width: 700px;
     margin-bottom: 40px;
     -webkit-transition: all 0.8s ease-in;
     -moz-transition: all 0.8s ease-in;
@@ -163,16 +163,17 @@
 
 .section {
     font-family: trebuchet ms;
-    font-size: 14px;
+    font-size: 16px;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #ae4b33;
+    
 }
 
 .title {
     color: black;
     font-family: trebuchet ms;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: bold;
     margin-bottom: 0%;
 }
@@ -180,7 +181,7 @@
 .title a {
     color: black;
     font-family: trebuchet ms;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: bold;
     text-decoration: none;
     margin-bottom: 0%;
@@ -204,7 +205,7 @@
 
 .author {
     font-family: trebuchet ms;
-    font-size: 12px;
+    font-size: 14px;
     margin-top: 0%;
     margin-bottom: 0%;
 }
@@ -212,7 +213,7 @@
 .journal {
     color: #727272;
     font-family: trebuchet ms;
-    font-size: 12px;
+    font-size: 14px;
     font-style: italic;
     margin-top: 0%;
 }
